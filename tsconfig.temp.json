@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "/Users/heljas/Projects/total-typescript/type-transformations-workshop/src/02-unions-and-indexing/09-discriminated-union-to-discriminator.problem.ts"
+    "/Users/heljas/Projects/total-typescript/type-transformations-workshop/src/02-unions-and-indexing/10-as-const.problem.ts"
   ]
 }
