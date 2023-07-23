@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "/Users/heljas/Projects/total-typescript/type-transformations-workshop/src/01-inference-basics/03-awaited.problem.ts"
+    "/Users/heljas/Projects/total-typescript/type-transformations-workshop/src/01-inference-basics/04-get-object-keys.problem.ts"
   ]
 }
