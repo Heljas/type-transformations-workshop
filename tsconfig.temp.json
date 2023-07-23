@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "/Users/heljas/Projects/total-typescript/type-transformations-workshop/src/02-unions-and-indexing/06-extract-from-discriminated-union.problem.ts"
+    "/Users/heljas/Projects/total-typescript/type-transformations-workshop/src/02-unions-and-indexing/07-exclude-from-discriminated-union.problem.ts"
   ]
 }
