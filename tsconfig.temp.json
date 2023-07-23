@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "/Users/heljas/Projects/total-typescript/type-transformations-workshop/src/02-unions-and-indexing/11-indexed-access-with-unions.problem.ts"
+    "/Users/heljas/Projects/total-typescript/type-transformations-workshop/src/02-unions-and-indexing/12-get-object-values.problem.ts"
   ]
 }
